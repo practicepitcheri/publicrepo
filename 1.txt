@@ -1,1 +1,2 @@
+now i am trying to revert the operation
 hello hi 1.sh it is
